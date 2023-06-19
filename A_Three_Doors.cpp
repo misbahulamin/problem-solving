@@ -1,8 +1,8 @@
 /******************************************************************************
 
-                    Name: Mibahul Amin
+                    Name: Misbahul Amin
                     Department: Computer Science and Technology
-                    Nantong University, Nantong City, Jiangshu, China
+                    Nantong University, Nantong City, Jiangsu, China
 *******************************************************************************/
 
 #include <iostream>
